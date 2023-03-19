@@ -19,5 +19,5 @@
 </div>
   
 <div align="center">
-  ![snake animation](https://github.com/pricoptudor/pricoptudor/blob/output/github-contribution-grid-snake2.svg)
+  <img src="https://raw.githubusercontent.com/pricoptudor/pricoptudor/output/snake.svg" alt="snek animation" />
 </div>
